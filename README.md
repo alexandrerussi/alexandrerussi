@@ -133,6 +133,5 @@
  
 </div>
  
-<!--
+
  ![Snake animation](https://github.com/alexandrerussi/alexandrerussi/blob/output/github-contribution-grid-snake.svg)
--->
