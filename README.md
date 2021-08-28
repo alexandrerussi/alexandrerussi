@@ -1,4 +1,4 @@
-### Hi!! I'm Alexandre Russi Jr.
+### Hi! I'm Alexandre Russi Jr. 👋
 
 <!--
 - 🔭 I’m currently working on ...
